@@ -22,10 +22,6 @@ This is my first music player which I made by using languages like: html, css an
 
 ## FAQ
 
-#### Is this reposetory private?
-
-→ This reposetory is "public".
-
 #### Are you a professional developer?
 
 → No, still I am a learner.
