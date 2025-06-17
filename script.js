@@ -69,7 +69,7 @@ Array.from(document.getElementsByClassName('songItemPlay')).forEach((element)=>{
         gif.style.opacity = 1;
         masterPlay.classList.remove('fa-play-circle');
         masterPlay.classList.add('fa-pause-circle');
-    })
+    }) 
 })
 
 document.getElementById('next').addEventListener('click', ()=>{
